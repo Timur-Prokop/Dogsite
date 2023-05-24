@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+}
+.headertext{
+    display: flex;
+    justify-content: center;
+}
+.trueami{
+    margin-right: 40px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-right: 600px;
+}
+.yummy{
+    font-size: 65px;
+    margin-bottom: 0px;
+    color: #F37F34;
+    font-weight: 900;
+}
+.pug{
+    font-size: 65px;
+    margin-top: 0px;
+    color: #774E2E;
+    font-weight: 900;
+}
+.yummypug{
+    width: 475px;
+}
+.yummytext{
+    width: 475px;
+}
+.but-fav{
+    width: 260px;
+    height: 40px;
+    background-color: #774E2E;
+    border: 0;
+    color: aliceblue;
+    margin-top: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.bigdog img{
+    width: 475px;
+    height: 496px;
+}
+
+
+
+.pinktext{
+    display: flex;
+    justify-content: center;
+}
+.pinkplace{
+    background-color: #FFF9EA;
+    height: 550px;
+    margin-bottom: 20px;
+
+}
+.solodoschi-one{
+    color: #F37F34;
+    font-size: 50px;
+}
+.solodoschi-two{
+    color: #774E2E;
+    margin-left: 5px;
+    font-size: 50px;
+}
+.three-divs{
+    display: flex;
+    justify-content: center;
+}
+.three-divs div{
+    background-color: white;
+    margin-right: 20px;
+}
+
+.three-divs div img{
+    width: 310px;
+}
+.sweetpawag{
+    width: 250px;
+    display: flex;
+    margin-left: 30px;
+    text-align: center;
+}
+.sweettext{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.porada{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+.porada-tire-text{
+    color: #F37F34;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.vidyummy-text{
+    color: #774E2E;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.long-text{
+    width: 455px;
+    margin-top: 0;
+}
+.doginthebusket{
+    width: 380px;
+    height: 500px;
+}
+.hthree{
+    color: rgb(50, 50, 50);
+}
+
+
+
+.footer{
+    background-color:#774E2E;
+    height: 70px;
+}
+.footer-logo-text{
+    display: flex;
+    justify-content: center;
+}
+.footer .footer-logo-text img{
+    width: 50px;
+    height: 50px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+.footer .footer-logo-text h3{
+    color: white;
+    margin-top: 25px;
+}
